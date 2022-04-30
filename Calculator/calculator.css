@@ -20,7 +20,8 @@ body{
     width: 25%;
     height: 50px;
     background-color: antiquewhite;
-    text-align:center;
+    text-align:right;
+    padding-top:10px;
     font-size: 25px;
 
 }
